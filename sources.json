@@ -1,0 +1,12 @@
+[
+  {
+    "rid": "bartblaze.Yara-rules",
+    "rlink": "https://github.com/bartblaze/Yara-rules",
+    "yrl": "rules"
+  },
+  {
+    "rid": "AlienVault-Labs.AlienVaultLabs",
+    "rlink": "https://github.com/AlienVault-Labs/AlienVaultLabs",
+    "yrl": "malware_analysis"
+  }
+]

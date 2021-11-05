@@ -1,0 +1,10 @@
+kind: pipeline
+type: docker
+name: Assembling
+
+steps:
+- name: build
+  image: ubuntu
+  commands:
+  - apt update -y && apt install -y git jq
+  - ./assemble.sh
