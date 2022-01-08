@@ -1,4 +1,3 @@
-03:06:20
 https://github.com/AlienVault-Labs/AlienVaultLabs.git
 https://github.com/bwall/bamfdetect.git
 https://github.com/bartblaze/Yara-rules.git
@@ -42,6 +41,7 @@ https://github.com/inv-ds-research/yaraml_rules.git
 https://github.com/SpiderLabs/malware-analysis.git
 https://github.com/StrangerealIntel/DailyIOC.git
 https://github.com/t4d/PhishingKit-Yara-Rules.git
+https://github.com/telekom-security/malware_analysis.git
 https://github.com/tenable/yara-rules.git
 https://github.com/tjnel/yara_repo.git
 https://github.com/VectraThreatLab/reyara.git
@@ -52,4 +52,3 @@ https://github.com/Xumeiquer/yara-forensics.git
 https://github.com/DiabloHorn/yara4pentesters.git
 https://github.com/Yara-Rules/rules.git
 https://github.com/fr0gger/Yara-Unprotect.git
-03:52:42
